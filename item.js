@@ -1,6 +1,6 @@
 var item = {
   name: 'banana',
-  price: 4.99
+  price: 2
 };
 
 module.exports = item;
